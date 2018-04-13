@@ -1,0 +1,24 @@
+/* In order to enlarge the Icon*/
+
+i.pencil.alternate.icon{
+  font-size: 3em; 
+}
+
+/* To increase the header size*/
+.container.main{
+    margin-top: 7.0em;
+}
+
+/* To set the Delete button in line since it comes inside form*/
+#delete{
+  display:inline;
+}
+
+/*Setting the tarde mark*/
+.tradeMark{
+  font-family: 'Montserrat', sans-serif;
+  position: fixed; 
+  bottom: 0; 
+  width:100%; 
+  text-align: right;
+}
